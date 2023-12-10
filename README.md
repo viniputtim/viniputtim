@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello World, I am Vinicius Putti Morais
+
+I am currently working with the raylib library in C++ to create a set of useful tools to abstract various common tasks in both language and library usage, and then to develop some games. The games I intend to develop are:
+
+- A soccer manager game.
+- A supermarket simulator.
+- A roguelike deckbuilder game.
+
+Furthermore, I also have some knowledge in Python and Pygame, as well as a bit less experience with web technologies such as HTML5, CSS3, JavaScript, PHP, and MySQL.
 
 <!--
 **viniputtim/viniputtim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
