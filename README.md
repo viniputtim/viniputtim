@@ -8,7 +8,3 @@
     <img height=50 width=50 alt="css" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/640px-CSS.3.svg.png"/>
     <img height=50 width=50 alt="linux" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg"/>
 </div>
-
-<img height=50 width=50 src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Firefox_logo%2C_2019.png"/>
-
-# If you want to keep the internet a free place, use [Firefox](https://www.mozilla.org/)!
